@@ -1,11 +1,12 @@
 body {
   align-items: center;
-  background-color: #9DA6A2;
+  background:  #9DA6A2 url(bg.svg) no-repeat center center;
   color: #4B4443;
   display: flex;
   font-family: Tahoma, Geneva, sans-serif;
   height: 100vh;
   justify-content: center;
+  margin: 0;
 }
 
 main {

@@ -69,10 +69,10 @@ i {
   width: 24px;
 }
 
-i.icon-codeschool { background-image: url(icons.svg#codeschool); }
 i.icon-deezer { background-image: url(icons.svg#deezer); }
 i.icon-github { background-image: url(icons.svg#github); }
 i.icon-linkedin { background-image: url(icons.svg#linkedin); }
+i.icon-rss { background-image: url(icons.svg#rss); }
 i.icon-soundcloud { background-image: url(icons.svg#soundcloud); }
 i.icon-trakt { background-image: url(icons.svg#trakt); }
 i.icon-twitter { background-image: url(icons.svg#twitter); }
